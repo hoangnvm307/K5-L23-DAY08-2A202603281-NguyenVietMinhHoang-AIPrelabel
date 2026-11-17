@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2.
 - Tài khoản GitHub: `hoangnvm307`
 - Repo bài nộp (URL): https://github.com/hoangnvm307/K5-L23-DAY08-2A202603281-NguyenVietMinhHoang-AIPrelabel
-- Commit chốt bài (hash): điền khi chốt bài.
+- Commit chốt bài (hash): `8a93e5f41ca63e7016d1838734cfc102eb756cff` (commit chứa nội dung đã kiểm tra).
 - Máy: Windows. Các lượt chạy toàn bộ tập ảnh dùng CPU theo `work/runs.csv`.
 - CVAT (Docker): cấu hình Compose mặc định `v2.74.1`. Cần xác nhận phiên bản thực tế trong CVAT.
 
