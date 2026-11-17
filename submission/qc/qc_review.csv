@@ -1,0 +1,15 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,16,sai_vi_tri_kich_thuoc,ChatGPT,Cạnh trái box xe ba bánh cắt mất phần mui bạt nhô sang trái.
+img_003.jpg,17,thua,ChatGPT,Box thứ hai chỉ ôm thùng và bánh của cùng xe ba bánh đã có box #16.
+img_003.jpg,,bo_sot,ChatGPT,Thiếu xe đạp của người đội nón ngay bên phải người mặc áo ca-rô ở giữa ảnh. Thấy rõ bánh trước và tay lái.
+img_006.jpg,,bo_sot,ChatGPT,Thiếu người đàn ông ngồi sát mép phải ở bàn ăn. Đầu và phần thân phía trên vạch ngang bàn phân biệt được với người đứng phía sau.
+img_014.jpg,109,sai_vi_tri_kich_thuoc,ChatGPT,Viền trên box xe máy góc dưới phải để thừa khoảng trống lớn trên yên xe.
+img_014.jpg,114,sai_vi_tri_kich_thuoc,ChatGPT,Viền trên box người đi xe máy xanh bên trái dư khoảng 16 px phía trên mũ bảo hiểm.
+img_014.jpg,,bo_sot,ChatGPT,Thiếu người đi bộ đội nón trên đường bên phải phía sau người lái mặc áo trắng.
+img_031.jpg,290,thua,ChatGPT,Box person ở sát mép trái phía trên nằm trên quần áo trưng bày.
+img_031.jpg,291,thua,ChatGPT,Box person bao áo khoác màu cam treo trong cửa hàng.
+img_031.jpg,293,sai_vi_tri_kich_thuoc,ChatGPT,Box người bán hàng cắt phần chóp nón và để thừa nền phía trái.
+img_035.jpg,330,sai_vi_tri_kich_thuoc,ChatGPT,Một box motorbike trùm lên vài xe đỗ ven đường. Cần ôm riêng từng xe nhìn rõ.
+img_035.jpg,337,sai_vi_tri_kich_thuoc,ChatGPT,Box xích lô cắt toàn bộ mui đỏ đang nhìn thấy.
+img_035.jpg,,bo_sot,ChatGPT,Thiếu box person cho người đạp xích lô ở ngay dưới mui đỏ.
+img_035.jpg,,bo_sot,ChatGPT,Thiếu box person cho người mặc áo tối ngồi cạnh xe máy giữa người đi bộ áo trắng và người đứng áo xanh đậm.
